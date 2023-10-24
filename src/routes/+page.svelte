@@ -1,2 +1,20 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<article>
+	<h1>zmrl.dev</h1>
+	<p>This website is under active development.</p>
+</article>
+
+<style>
+	article {
+		text-align: center;
+	}
+
+	h1 {
+		font-weight: 900;
+		font-size: 3rem;
+	}
+
+	p {
+		font-weight: 500;
+		font-size: 1.2rem;
+	}
+</style>
